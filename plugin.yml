@@ -1,0 +1,49 @@
+name: SurvivalHeaven-CORE
+version: '0.1.5-SNAPSHOT ( impl: v1_8_R1 )'
+main: info.nordbyen.survivalheaven.SH
+depend: [ WorldEdit, BlocksHub, NametagEdit ] 
+commands:
+  infdisp: 
+    description: "Lager en uendelig dispenser"
+  jobb:
+  fix:
+  wb:
+  homeradius:
+  blokker:
+  inv:
+  kick:
+  afk:
+  ss:
+  tp:
+  tph:
+  k:
+  h:
+  s:
+  smelt:
+  hatt:
+  ec:
+  who:
+  fspeed:
+  killall:
+  bug:
+  fly:
+  sitt:
+  sudo:
+  adminstick:
+  rank:
+  venn:
+  homes:
+  home:
+  sethome:
+  delhome:
+  tpa:
+  tpaccept:
+  mute:
+  sh:
+  mutes:
+  partikler:
+  cc:
+  poke:
+  r:
+  tips:
+  viktig:
